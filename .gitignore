@@ -1,0 +1,62 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+
+# Wirtualne środowiska
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Testy
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# IDE: PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logi
+*.log
+
+# Dane
+.DS_Store
+*.sqlite3
+*.db
+*.csv
+*.tsv
+*.tmp
+*.bak
+
+# System operacyjny
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code (jeśli ktoś użyje)
+.vscode/
+
+# Pliki środowiska
+.env
+.env.*
